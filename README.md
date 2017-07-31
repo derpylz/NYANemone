@@ -24,7 +24,7 @@ In addition, **ffmpeg** needs to be installed.
 
 The easiest method of installing NYANemone is by downloading the latest compressed distribution archive from the dist folder in this repository. The current version is 1.0. After downloading, decompress the archive to any location on your drive.
 
-In the folder nyanemone/external/data/ you will find a text file called ffmpeg_location.txt. If your ffmpeg installation is not in your PATH variable, write the location of the ffmpeg executable into the file.
+In the folder nyanemone/external/data/ you will find a text file called ffmpeg_location.txt. If your ffmpeg installation is not in your PATH variable (or in the Applications folder on mac OS X), write the location of the ffmpeg executable into the file.
 
 Open a terminal and move to the location of the root folder (the folder containing the setup.py file, should be called something like: nyanemone-*yourOS*-*version*). Then run the following two commands:
 

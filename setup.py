@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='nyanemone-win64',
+setup(name='nyanemone-macOSX',
       version='1.0',
       description='Workflow for tracking anemone larvae',
       author='Nils Jonathan Trost',
